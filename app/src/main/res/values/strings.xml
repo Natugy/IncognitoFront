@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Incognito</string>
+    <string name="title_player_list">Liste de Joueurs</string>
+    <string name="launch_btn">Commencer</string>
+    <string name="edit_btn">Edit</string>
+    <string name="delete_btn">Delete</string>
+    <string name="add_btn">Ajouter</string>
+    <string name="confirm_btn">Confirmer</string>
+    <string name="player_lbl">Joueur :</string>
+    <string name="word_lbl">Mot :</string>
+    <string name="incognito_lbl">Nb Incognito :</string>
+    <string name="white_lbl">Nb Blanc :</string>
+    <string name="edit_name_player">Nom :</string>
+    <string name="cancel_btn">Annuler</string>
+    <string name="dialog_start_game"> Confirmer le lancement du jeu ?</string>
+</resources>
